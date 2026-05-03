@@ -1,0 +1,9 @@
+{
+  "name": "Omni Message Next - Amaizing IT",
+  "description": "Enterprise-grade SSR multipage social media management dashboard built with Next.js and Supabase Realtime.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["SSR", "Next.js", "Supabase Realtime", "Multipage"]
+}

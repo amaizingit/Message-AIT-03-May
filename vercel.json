@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/waha-proxy/:path*",
+      "destination": "https://1-waha.firhl1.easypanel.host/:path*"
+    }
+  ]
+}
